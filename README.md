@@ -6,7 +6,7 @@ Awesome projects using GoFrame.
 #### *If you have a package or project that uses GoFrame, please submit a pull request to list it here. Thank you!*
 
 
-## OpenSourced Projects using [GoFrame](https://github.com/gogf/gf)
+## StandAlone Projects using [GoFrame](https://github.com/gogf/gf)
 
 
 
