@@ -18,6 +18,7 @@ Awesome projects using GoFrame.
 - [gf-vue-admin](https://gf-vue-admin.com/) - 基于GoFrame+Vue搭建的后台管理系统框架。
 - [gf-admin-api](https://github.com/jangworn/gf-admin-api) - 一个前后端分离项目，前端Vue.js、后端GoFrame。
 - [gea](https://github.com/1307super/gea) - 基于GoFrame、Vue & Element的前后端分离权限管理系统。
+- [dmicro](https://github.com/osgochina/dmicro) - 基于GoFrame的rpc框架。
 
 
 ## Libraries and Plugins using [GoFrame](https://github.com/gogf/gf)
