@@ -15,7 +15,6 @@ Awesome projects using GoFrame.
 - [focus-single](https://github.com/gogf/focus-single) - (Official) GoFrame开源社区项目，可作为一个完整项目示例。
 - [gfast](https://github.com/tiger1103/gfast) - 基于GoFrame框架的后台管理系统。
 - [gmanager](https://github.com/goflyfox/gmanager) - 基于GoFrame框架的管理平台。
-- [gf-vue-admin](https://gf-vue-admin.com/) - 基于GoFrame+Vue搭建的后台管理系统框架。
 - [gf-admin-api](https://github.com/jangworn/gf-admin-api) - 一个前后端分离项目，前端Vue.js、后端GoFrame。
 - [gea](https://github.com/1307super/gea) - 基于GoFrame、Vue & Element的前后端分离权限管理系统。
 - [dmicro](https://github.com/osgochina/dmicro) - 基于GoFrame的rpc框架。
