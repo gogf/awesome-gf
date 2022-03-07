@@ -28,6 +28,7 @@ Awesome projects using GoFrame.
 - [gf-jwt](https://github.com/gogf/gf-jwt) - GoFrame HTTP JWT middleware.
 - [csrf](https://github.com/gogf/csrf) - CSRF middleware for GoFrame web server.
 - [gdb-adapter](https://github.com/vance-liu/gdb-adapter) - GoFrame ORM adapter for Casbin.
+- [gf-casbin-adapter](https://github.com/hailaz/gf-casbin-adapter) - GoFrame ORM adapter for Casbin.
 
 
 ## Use Cases using [GoFrame](https://github.com/gogf/gf)
