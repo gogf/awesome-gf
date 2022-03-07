@@ -10,8 +10,9 @@ Awesome projects using GoFrame.
 
 
 
-- [gf-demos](https://github.com/gogf/gf-demos) - (Official) GoFrame新手入门基础演示项目。
-- [gf-cli](https://github.com/gogf/gf-cli) - (Official) GoFrame Command Line Interface.
+- [gf-demo-user](https://github.com/gogf/gf-demo-user) - (Official) GoFrame入门演示项目: 简单的API服务。
+- [gf-demo-chat](https://github.com/gogf/gf-demo-chat) - (Official) GoFrame入门演示项目: 简单的MVC服务。
+- [gf-cli](https://github.com/gogf/gf/tree/master/cmd/gf) - (Official) GoFrame Command Line Interface.
 - [focus-single](https://github.com/gogf/focus-single) - (Official) GoFrame开源社区项目，可作为一个完整项目示例。
 - [gfast](https://github.com/tiger1103/gfast) - 基于GoFrame框架的后台管理系统。
 - [gmanager](https://github.com/goflyfox/gmanager) - 基于GoFrame框架的管理平台。
