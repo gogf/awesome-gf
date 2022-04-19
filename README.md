@@ -36,3 +36,4 @@ Awesome projects using GoFrame.
 
 - [Bingo](https://www.liming.me) - 个人博客程序，后台前端采用Vue2+ElementUI2，服务端用的GoFrame。
 - [云传意](https://homeapp.top/) - 微信小程序：云传意。
+- [gf-vben](https://github.com/vbenjs/gf-vben) 前后端分离后台管理系统 goframe V2.0 + vben-admin 后端部分
