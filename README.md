@@ -19,6 +19,7 @@ Awesome projects using [GoFrame](https://github.com/gogf/gf).
 - [dmicro](https://github.com/osgochina/dmicro) - 基于GoFrame的rpc框架。
 - [gf-vben](https://github.com/vbenjs/gf-vben) 前后端分离后台管理系统 goframe V2.0 + vben-admin 后端部分
 - [Free Key Admin](https://github.com/1211ciel/ciel-admin) Free Key Admin(自由钥匙) 一个 V2EX(v2ex.com)风格 Go 语言写的个人后台管理系统 gfv2 + Vue3
+- [hotgo](https://github.com/bufanyun/hotgo)HotGo 是一个基于 vue 和 goframe2.0 开发的全栈前后端分离的开发基础平台和移动应用平台，集成jwt鉴权，动态路由，动态菜单，casbin鉴权，消息队列，定时任务等功能，提供多种常用场景文件，让您把更多时间专注在业务开发上。
 
 ## Libraries and Plugins
 
