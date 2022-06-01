@@ -30,6 +30,7 @@ Awesome projects using [GoFrame](https://github.com/gogf/gf).
 - [csrf](https://github.com/gogf/csrf) - CSRF middleware for GoFrame web server.
 - [gdb-adapter](https://github.com/vance-liu/gdb-adapter) - GoFrame ORM adapter for Casbin.
 - [gf-casbin-adapter](https://github.com/hailaz/gf-casbin-adapter) - GoFrame ORM adapter for Casbin.
+- [gf-jsonrpc2](https://github.com/zhouyaozhouyao/goframe-jsonrpc) - 基于 GoFrame 框架的 jsonrpc 通信，支持 http 与 tcp 两种模式，与 hyperf 互缝通信
 
 
 ## Use Cases (Not OpenSourced)
