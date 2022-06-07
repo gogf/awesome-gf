@@ -31,6 +31,7 @@ Awesome projects using [GoFrame](https://github.com/gogf/gf).
 - [gdb-adapter](https://github.com/vance-liu/gdb-adapter) - GoFrame ORM adapter for Casbin.
 - [gf-casbin-adapter](https://github.com/hailaz/gf-casbin-adapter) - GoFrame ORM adapter for Casbin.
 - [gf-jsonrpc2](https://github.com/zhouyaozhouyao/goframe-jsonrpc) - 基于 GoFrame 框架的 jsonrpc 通信，支持 http 与 tcp 两种模式，与 hyperf 互缝通信
+- [VncProxy](https://github.com/vprix/vncproxy) - 基于gf框架实现的VNC远程桌面代理，完全解析`RFB`协议，实现了`远程桌面代理`,`屏幕录制视频`,`屏幕录制为文件`,`屏幕回放`,`截图`。
 
 
 ## Use Cases (Not OpenSourced)
