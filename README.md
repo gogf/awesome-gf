@@ -8,8 +8,6 @@ Awesome projects using [GoFrame](https://github.com/gogf/gf).
 
 ## StandAlone Projects
 
-- [EasyGoAdmin-Vue版](https://gitee.com/easygoadmin/EasyGoAdmin_GoFrame_EleVue) - EasyGoAdmin - 基于GoFrame、Vue、ElementUI等技术栈的敏捷后台开发框架。
-- [EasyGoAdmin-Layui版](https://gitee.com/easygoadmin/EasyGoAdmin_GoFrame_Layui) - EasyGoAdmin - 基于GoFrame、Layui等技术栈的敏捷后台开发框架。
 - [gf-demo-user](https://github.com/gogf/gf-demo-user) - (Official) GoFrame入门演示项目: 简单的API服务。
 - [gf-demo-chat](https://github.com/gogf/gf-demo-chat) - (Official) GoFrame入门演示项目: 简单的MVC服务。
 - [gf-cli](https://github.com/gogf/gf/tree/master/cmd/gf) - (Official) GoFrame Command Line Interface.
@@ -36,7 +34,8 @@ Awesome projects using [GoFrame](https://github.com/gogf/gf).
 - [EventMesh](https://github.com/apache/incubator-eventmesh) - EventMesh is a dynamic event-driven application runtime used to decouple the application and backend middleware layer, which supports a wide range of use cases that encompass complex multi-cloud, widely distributed topologies using diverse technology stacks.
 - [scan4all](https://github.com/hktalent/scan4all) - Official repository vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
 - [hybridnet](https://github.com/alibaba/hybridnet) - A CNI plugin, provides networking environment where overlay and underlay containers can run on the same node and have cluster-wide bidirectional network connectivity.
-
+- [EasyGoAdmin-Vue版](https://gitee.com/easygoadmin/EasyGoAdmin_GoFrame_EleVue) - EasyGoAdmin - 基于GoFrame、Vue、ElementUI等技术栈的敏捷后台开发框架。
+- [EasyGoAdmin-Layui版](https://gitee.com/easygoadmin/EasyGoAdmin_GoFrame_Layui) - EasyGoAdmin - 基于GoFrame、Layui等技术栈的敏捷后台开发框架。
 
 
 
