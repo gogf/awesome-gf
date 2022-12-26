@@ -8,6 +8,8 @@ Awesome projects using [GoFrame](https://github.com/gogf/gf).
 
 ## StandAlone Projects
 
+- [EasyGoAdmin-Vue版](https://gitee.com/easygoadmin/EasyGoAdmin_GoFrame_EleVue) - EasyGoAdmin - 基于GoFrame、Vue、ElementUI等技术栈的敏捷后台开发框架。
+- [EasyGoAdmin-Layui版](https://gitee.com/easygoadmin/EasyGoAdmin_GoFrame_Layui) - EasyGoAdmin - 基于GoFrame、Layui等技术栈的敏捷后台开发框架。
 - [gf-demo-user](https://github.com/gogf/gf-demo-user) - (Official) GoFrame入门演示项目: 简单的API服务。
 - [gf-demo-chat](https://github.com/gogf/gf-demo-chat) - (Official) GoFrame入门演示项目: 简单的MVC服务。
 - [gf-cli](https://github.com/gogf/gf/tree/master/cmd/gf) - (Official) GoFrame Command Line Interface.
