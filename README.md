@@ -36,6 +36,7 @@ Awesome projects using [GoFrame](https://github.com/gogf/gf).
 - [hybridnet](https://github.com/alibaba/hybridnet) - A CNI plugin, provides networking environment where overlay and underlay containers can run on the same node and have cluster-wide bidirectional network connectivity.
 - [EasyGoAdmin-Vue版](https://gitee.com/easygoadmin/EasyGoAdmin_GoFrame_EleVue) - EasyGoAdmin - 基于GoFrame、Vue、ElementUI等技术栈的敏捷后台开发框架。
 - [EasyGoAdmin-Layui版](https://gitee.com/easygoadmin/EasyGoAdmin_GoFrame_Layui) - EasyGoAdmin - 基于GoFrame、Layui等技术栈的敏捷后台开发框架。
+- [apijson-go](https://github.com/glennliao/apijson-go) - 基于 go + goframe 实现的 apijson
 
 
 
