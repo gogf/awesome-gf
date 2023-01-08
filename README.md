@@ -43,7 +43,7 @@ Awesome projects using [GoFrame](https://github.com/gogf/gf).
 
 ## Libraries and Plugins
 
-- [polaris](https://github.com/gogf/polaris) - Polaris with GoFrame.
+- [polaris](https://github.com/gogf/gf/tree/master/contrib/registry/polaris) - Polaris registry with GoFrame.
 - [gtoken](https://github.com/goflyfox/gtoken) - 基于GoFrame框架的token插件，通过服务端验证方式实现token认证.
 - [gf-jwt](https://github.com/gogf/gf-jwt) - GoFrame HTTP JWT middleware.
 - [csrf](https://github.com/gogf/csrf) - CSRF middleware for GoFrame web server.
