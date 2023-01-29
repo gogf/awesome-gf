@@ -38,7 +38,7 @@ Awesome projects using [GoFrame](https://github.com/gogf/gf).
 - [EasyGoAdmin-Layui版](https://gitee.com/easygoadmin/EasyGoAdmin_GoFrame_Layui) - EasyGoAdmin - 基于GoFrame、Layui等技术栈的敏捷后台开发框架。
 - [apijson-go](https://github.com/glennliao/apijson-go) - 基于 go + goframe 实现的 apijson
 - [Sagoo-IOT](https://github.com/sagoo-cloud/sagooiot) - SagooIOT是一个基于GoFrame V2开发的开源的企业级物联网基础开发平台。负责设备管理和协议数据管理，支持跨平台的物联网接入及管理方案，平台实现了物联网开发相关的基础功能，基于该功能可以快速的搭建起一整套的IOT相关的业务系统。支持插件机制，支持适配多种接入协议(TCP,MQTT,UDP,CoAP,HTTP,GRPC,RPC等),灵活接入不同厂家的不同设备。
-
+- [miaoyu-admin](https://gitee.com/licxpro/miaoyu) - miaoyu-admin - 基于GoFrame v2.3开发的通用后台管理系统，后台基础功能都已完成方便二次开发。
 
 
 ## Libraries and Plugins
