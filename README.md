@@ -1,10 +1,10 @@
 # awesome-gf
+
 Awesome projects using [GoFrame](https://github.com/gogf/gf).
 
 ## Contributing
 
 #### *If you have a package or project that uses GoFrame, please submit a pull request to list it here. Thank you!*
-
 
 ## StandAlone Projects
 
@@ -18,7 +18,7 @@ Awesome projects using [GoFrame](https://github.com/gogf/gf).
 - [gea](https://github.com/1307super/gea) - 基于GoFrame、Vue & Element的前后端分离权限管理系统。
 - [dmicro](https://github.com/osgochina/dmicro) - 基于GoFrame的rpc框架。
 - [gf-vben](https://github.com/vbenjs/gf-vben) - 前后端分离后台管理系统 goframe V2.0 + vben-admin 后端部分
-- [free-key-admin](https://github.com/1211ciel/ciel-admin) - 一个V2EX风格 `Go` 语言写的个人后台管理系统。采用`服务端渲染`方式 `gfv2 + jQuery+ css+ html`。实现了一般系统常用接口如注册、登录、充值、账变记录、账变统计等。
+- [freekey admin](https://github.com/1211ciel/ciel-admin) - 一个V2EX风格 `Golang`, `React`, `Nextjs` 写的后台管理系统，提供了权限管理、字典查询、本地文件上传等基本功能。实现了一般系统常用接口如注册、登录、充值、账变记录等。
 - [HotGo](https://github.com/bufanyun/hotgo) - HotGo 是一个基于 vue 和 goframe2.0 开发的全栈前后端分离的开发基础平台和移动应用平台，集成jwt鉴权，动态路由，动态菜单，casbin鉴权，消息队列，定时任务等功能，提供多种常用场景文件，让您把更多时间专注在业务开发上。
 - [Go-ops](https://github.com/i4de/go-ops) - Go-ops是面向云平台系统, 基于 PaaS 技术支持客户实现 DevOps 解决方案的平台。提供完善作业管理、配置管理、定期调度、健康巡检等模块，助力运维人员快速、低成本、自动化的管理配置运维系统。
 - [BIFrost](https://github.com/brokercap/Bifrost) - 面向生产环境的 MySQL,MariaDB 同步到Redis,MongoDB,ClickHouse,MySQL等服务的异构中间件。
@@ -41,7 +41,6 @@ Awesome projects using [GoFrame](https://github.com/gogf/gf).
 - [miaoyu-admin](https://gitee.com/licxpro/miaoyu) - miaoyu-admin - 基于GoFrame v2.3开发的通用后台管理系统，后台基础功能都已完成方便二次开发。
 - [gf2-demo](https://github.com/windvalley/gf2-demo) - `gf2-demo` 是一个基于 GoFrame V2.3 用来快速开发后端服务的脚手架, 目标使开发者只需关注业务逻辑的编写, 快速且规范地交付项目.
 
-
 ## Libraries and Plugins
 
 - [polaris](https://github.com/gogf/gf/tree/master/contrib/registry/polaris) - Polaris registry with GoFrame.
@@ -57,11 +56,7 @@ Awesome projects using [GoFrame](https://github.com/gogf/gf).
 - [go-socket.io](https://github.com/googollee/go-socket.io) - socket.io library for golang, a realtime application framework.
 - [Jupiter](https://github.com/douyu/jupiter) - Governance-oriented Microservice Framework.
 
-
-
-
 ## Use Cases (Not OpenSourced)
-
 
 - [Bingo](https://www.liming.me) - 个人博客程序，后台前端采用Vue2+ElementUI2，服务端用的GoFrame。
 - [云传意](https://homeapp.top/) - 微信小程序：云传意。
