@@ -55,6 +55,8 @@ Awesome projects using [GoFrame](https://github.com/gogf/gf).
 - [dmicro](https://github.com/osgochina/dmicro) - dmicro是一个高效、可扩展且简单易用的微服务框架。包含drpc,dserver等组件。
 - [go-socket.io](https://github.com/googollee/go-socket.io) - socket.io library for golang, a realtime application framework.
 - [Jupiter](https://github.com/douyu/jupiter) - Governance-oriented Microservice Framework.
+- [gf-x-tool](https://github.com/xgd16/gf-x-tool) - GF 的便利性使用扩展 —— GrayLog —— 快速返回处理 —— 在线翻译支持(百度,有道,google,deepl)
+- [gf-x-rabbitMQ](https://github.com/xgd16/gf-x-rabbitMQ) - 快捷接入 rabbitMQ 解决多任务处理
 
 ## Use Cases (Not OpenSourced)
 
