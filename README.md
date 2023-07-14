@@ -40,6 +40,7 @@ Awesome projects using [GoFrame](https://github.com/gogf/gf).
 - [Sagoo-IOT](https://github.com/sagoo-cloud/sagooiot) - SagooIOT是一个基于GoFrame V2开发的开源的企业级物联网基础开发平台。负责设备管理和协议数据管理，支持跨平台的物联网接入及管理方案，平台实现了物联网开发相关的基础功能，基于该功能可以快速的搭建起一整套的IOT相关的业务系统。支持插件机制，支持适配多种接入协议(TCP,MQTT,UDP,CoAP,HTTP,GRPC,RPC等),灵活接入不同厂家的不同设备。
 - [miaoyu-admin](https://gitee.com/licxpro/miaoyu) - miaoyu-admin - 基于GoFrame v2.3开发的通用后台管理系统，后台基础功能都已完成方便二次开发。
 - [gf2-demo](https://github.com/windvalley/gf2-demo) - `gf2-demo` 是一个基于 GoFrame V2.3 用来快速开发后端服务的脚手架, 目标使开发者只需关注业务逻辑的编写, 快速且规范地交付项目.
+- [oldme-api](https://github.com/oldme-git/oldme-api) - oldme-api 是一个基于GoFrame 的前后端分离的个人博客系统，可做为学习 gf 的参考项目。欢迎访问我们博客来一起交流学习：[oldme](https://oldme.net)。
 
 ## Libraries and Plugins
 
