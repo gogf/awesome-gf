@@ -58,6 +58,7 @@ Awesome projects using [GoFrame](https://github.com/gogf/gf).
 - [Jupiter](https://github.com/douyu/jupiter) - Governance-oriented Microservice Framework.
 - [gf-x-tool](https://github.com/xgd16/gf-x-tool) - GF 的便利性使用扩展 —— GrayLog —— 快速返回处理 —— 在线翻译支持(百度,有道,google,deepl)
 - [gf-x-rabbitMQ](https://github.com/xgd16/gf-x-rabbitMQ) - 快捷接入 rabbitMQ 解决多任务处理
+- [Go ORM Helper](https://github.com/maiqingqiang/go-orm-helper) - GoFrame ORM Code Completion Plugin for GoLand. GoFrame ORM 代码补全 GoLand 插件
 
 ## Use Cases (Not OpenSourced)
 
