@@ -42,6 +42,7 @@ Awesome projects using [GoFrame](https://github.com/gogf/gf).
 - [gf2-demo](https://github.com/windvalley/gf2-demo) - `gf2-demo` 是一个基于 GoFrame V2.3 用来快速开发后端服务的脚手架, 目标使开发者只需关注业务逻辑的编写, 快速且规范地交付项目.
 - [oldme-api](https://github.com/oldme-git/oldme-api) - oldme-api 是一个基于GoFrame 的前后端分离的个人博客系统，可做为学习 gf 的参考项目。欢迎访问我们博客来一起交流学习：[oldme](https://oldme.net)。
 - [GoFrame-Polaris-Demo](https://github.com/houseme/goframe-polaris-demo) - Sample code for goframe and polaris
+- [zze-admin-go](https://github.com/zze326/zze-admin-go) - 基于 GoGrame v2.5.4 + Vue3 的前后端分离的后台管理系统开发脚手架，支持按钮级别的权限控制，使用前沿的前端技术（Typescript、Pinia、Vite、Tailwind CSS 等）。
 
 ## Libraries and Plugins
 
