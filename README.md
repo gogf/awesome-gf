@@ -12,6 +12,7 @@ Awesome projects using [GoFrame](https://github.com/gogf/gf).
 - [gf-demo-chat](https://github.com/gogf/gf-demo-chat) - (Official) GoFrame入门演示项目: 简单的MVC服务。
 - [gf-cli](https://github.com/gogf/gf/tree/master/cmd/gf) - (Official) GoFrame Command Line Interface.
 - [focus-single](https://github.com/gogf/focus-single) - (Official) GoFrame开源社区项目，可作为一个完整项目示例。
+- [letga](https://github.com/lgcgo/letga-server) - Letga 是一个基于 GoFrame 和 AntDesign 的中后台管理系统，集成了通用的中后台基础功能组件，是一款 规范化、易扩展、体验佳的企业级开源系统。
 - [gfast](https://github.com/tiger1103/gfast) - 基于GoFrame框架的后台管理系统。
 - [gmanager](https://github.com/goflyfox/gmanager) - 基于GoFrame框架的管理平台。
 - [gf-admin-api](https://github.com/jangworn/gf-admin-api) - 一个前后端分离项目，前端Vue.js、后端GoFrame。
