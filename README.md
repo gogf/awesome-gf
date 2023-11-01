@@ -44,6 +44,7 @@ Awesome projects using [GoFrame](https://github.com/gogf/gf).
 - [oldme-api](https://github.com/oldme-git/oldme-api) - oldme-api 是一个基于GoFrame 的前后端分离的个人博客系统，可做为学习 gf 的参考项目。欢迎访问我们博客来一起交流学习：[oldme](https://oldme.net)。
 - [GoFrame-Polaris-Demo](https://github.com/houseme/goframe-polaris-demo) - Sample code for goframe and polaris
 - [zze-admin-go](https://github.com/zze326/zze-admin-go) - 基于 GoGrame v2.5.4 + Vue3 的前后端分离的后台管理系统开发脚手架，支持按钮级别的权限控制，使用前沿的前端技术（Typescript、Pinia、Vite、Tailwind CSS 等）。
+- [goframe-admin](https://github.com/apple1563/goframe-admin/tree/admin) - 基于 goframe2 和vue3 开发的全栈前后端分离的后台管理系统，集成gtoken鉴权，casbin鉴权，动态路由，动态菜单等功能，提供多种常用场景文件，让您把更多时间专注在业务开发上。
 
 ## Libraries and Plugins
 
