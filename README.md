@@ -67,6 +67,7 @@ Awesome projects using [GoFrame](https://github.com/gogf/gf).
 - [gf-x-elasticSearch](https://github.com/xgd16/gf-x-elasticSearch) - 基于 GF 配置方式 快速接入 ES - ES官方扩展浅封装需要 go1.18 及以上版本
 - [x-object-storage](https://github.com/xgd16/x-object-storage) - 基于 GF 快速接入 亚马逊 AMS 存储
 - [Go ORM Helper](https://github.com/maiqingqiang/go-orm-helper) - GoFrame ORM Code Completion Plugin for GoLand. GoFrame ORM 代码补全 GoLand 插件
+- [GoFrame Helper](https://github.com/oldme-git/GoFrame-Helper) - GoFrame Helper 是一个 Goland/IntelliJ IDEA Ultimate 插件。 它为 GF 提供 ORM, Config, OpenApi 结构体标签代码辅助；Api, Controller, Service 代码模板；监听 Api, Logic 自动生成对应的 Controller 和 Service。
 
 ## Use Cases (Not OpenSourced)
 
