@@ -49,6 +49,7 @@ Awesome projects using [GoFrame](https://github.com/gogf/gf).
 - [uni-translate](https://github.com/xgd16/UniTranslate) - 基于 gf 实现的一个 百度 有道 谷歌 Deepl ChatGPT 翻译统一管理接入平台 统一API 调用规范 多平台翻译,调试操作端,权重,多接入 支持web图形化操作调试
 - [kkdl-go](https://github.com/vaebe/kkdl-go) - 基于 GoFrameV2 的短链生成及管理管理平台
 - [gf-websocket](https://github.com/SmallRuralDog/gf-websocket) - websocket示例
+- [lark-hotel-server](https://github.com/jet135/lark-hotel-server) - 基于 gf + 飞书 实现的酒店管理系统，用多维文档来记录数据和展示、机器人聊天快捷操作，实现了无前端代码的管理系统
 
 ## Libraries and Plugins
 
