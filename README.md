@@ -1,5 +1,9 @@
 # awesome-gf
 
+This respository is deprecated, new usage cases please submit and refer to https://goframe.org/showcase .
+
+<hr />
+
 Awesome projects using [GoFrame](https://github.com/gogf/gf).
 
 ## Contributing
